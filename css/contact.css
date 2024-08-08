@@ -1,0 +1,378 @@
+.ntb-contact-left{
+    width: 579px;
+    height: 709px;
+    top: 360px;
+    left: 260px;
+    gap: 0px;
+    border: 1px solid lightgray;
+    opacity: 0px;
+    padding: 30px 20px 30px 20px;
+
+}
+.ntb-contact-multiple-button button {
+    width: 123px;
+    height: 53px;
+    border-radius: 2px;
+    opacity: 0px;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: white;
+    margin-right: 20px;
+    border: 1px solid lightgrey;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+
+
+}
+.ntb-contact-multiple-button a{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 17.58px;
+    color: black;
+    opacity: 75%;
+    text-decoration: none;
+    text-align: center;
+}
+.ntb-contact-multiple-button{
+    display: flex;
+    align-items: center;
+    
+}
+.ntb-big-button{
+    width: 200px;
+}
+#ntb-small-button-1{
+    background-color: #FD3D57;
+}
+#ntb-small-button-1 a{
+    color: white;
+    opacity: 100%;
+}
+#ntb-big-btn{
+    width: 150px;
+}
+.ntb-form-pre-contact label{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    text-align: left;
+
+}
+.ntb-form-pre-contact #plugin{
+    width: 505px;
+    height: 55px;
+
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+
+}
+.ntb-form-pre-contact select{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-align: left;
+    opacity: 70%;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+.ntb-form-pre-contact{
+    margin-top: 20px;
+}
+.ntb-form-pre-contact #plugin{
+    margin-top: 10px;
+}
+.ntb-form-name input{
+    width: 240px;
+    height: 55px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+    padding-left: 10px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 20px;
+    margin-top: 10px;
+
+
+}
+.ntb-form-name .ntb-last-name{
+    width: 257px;
+    height: 55px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+
+}
+.ntb-form-email input{
+    font-family: "Poppins", sans-serif;
+    padding-left: 10px;
+    width: 503px;
+    height: 55px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+    margin-top: 30px;
+
+}
+.ntb-form-msg input{
+    font-family: "Poppins", sans-serif;
+    padding-left: 10px;
+    width: 503px;
+    height: 141px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+    margin-top: 30px;
+
+}
+.ntb-form-submit button{
+    width: 153px;
+    height: 53px;
+    top: 620px;
+    left: 37px;
+    padding: 15px 24px 15px 24px;
+    gap: 10px;
+    border-radius: 2px;
+    border: none;
+    background-color: #FD3D57;
+    opacity: 0px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    margin-top: 30px;
+
+
+}
+.ntb-form-name{
+    margin-top: 20px;
+}
+.ntb-form-question{
+    width: 322px;
+    height: 304px;
+    top: 323px;
+    left: 863px;
+    padding: 63px 57px 68px 48px;
+    gap: 0px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+
+}
+.ntb-presale-contact{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.ntb-form-question p{
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 39px;
+    text-align: center;
+}
+.ntb-form-question button{
+    width: 153px;
+    height: 53px;
+    top: 620px;
+    left: 37px;
+    padding: 15px 24px 15px 24px;
+    gap: 10px;
+    border-radius: 2px;
+    border: none;
+    background-color: #FD3D57;
+    opacity: 0px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.ntb-form-question button a{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+}
+.ntb-form-question{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.ntb-form-products{
+    width: 316px;
+    height: 375px;
+    top: 613px;
+    left: 863px;
+    padding: 9px 19px 9px 19px;
+    gap: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+
+}
+.ntb-form-products h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: px;
+    text-align: left;
+    opacity: 70%;
+
+}
+.ntb-main-products{
+    margin-bottom: -20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+}
+.ntb-product-01{
+    display: flex;
+    flex-direction: column;
+}
+.ntb-product-01 a{
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 13px;
+    text-align: left;
+    color: black;
+    opacity: 70%;
+    padding-top: 15px;
+    width: 700px;
+    padding-bottom: 10px;
+
+}
+.ntb-main-products{
+    margin-top: 30px;
+}
+.ntb-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.ntb-form-login-username input{
+    width: 422px;
+    height: 55px;
+    padding: 18px 15px 20px 15px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+
+}
+.ntb-form-login-pass input{
+    margin-top: 30px;
+    width: 422px;
+    height: 55px;
+    padding: 18px 15px 20px 15px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    opacity: 0px;
+}
+*{
+    font-family: "Poppins", sans-serif;
+}
+.ntb-form-login-checkbox{
+    margin-top: 20px;
+    color: grey;
+    font-size: 15px;
+}
+.ntb-form-login-checkbox p{
+    padding-left: 10px;
+    opacity: 70%;
+}
+.ntb-form-login-checkbox button{
+    width: 422px;
+    height:  53px;
+    top: 727px;
+    left: 738px;
+    border-radius: 28px;
+    opacity: 0px;
+    background-color: #FD3D57;
+    color: white;
+    font-size: 20px;
+    border: none;
+
+
+
+}
+.ntb-submit-login{
+    margin-top: 30px;
+}
+.ntb-darkmode{
+    background-color: rgb(15, 2, 27);
+}
+.ntb-lightmode{
+    background-color: white;
+}
+@media only screen and (max-width:700px){
+    .ntb-presale-contact{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .ntb-contact-left{
+        margin-left: 5vw;
+        width: 90vw;
+    }
+    .ntb-form-email input{
+        width: 100%;
+
+    }
+    .ntb-form-msg input{
+        width: 100%;
+        height: 120px;
+    }
+    .ntb-form-pre-contact #plugin {
+        width: 100%;
+    }
+    .ntb-form-name input{
+        width: 100%;
+    }
+    .ntb-login{
+        display: flex;
+        flex-direction: column;
+    }
+    .ntb-form-login-username input{
+        width: 90vw;
+    }
+    .ntb-form-login-pass input{
+        width: 90vw;
+    }
+    .ntb-submit-login button {
+        width: 90vw;
+    }
+    .ntb-right-login form{
+        margin-left: -30px;
+    }
+    .ntb-left-login img{
+        width: 80vw;
+    }
+}
+.ntb-services-title-dark{
+    color: white;
+}
+.ntb-hideOnMobile-dark{
+    color: white;
+}

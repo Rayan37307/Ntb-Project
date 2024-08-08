@@ -1,0 +1,219 @@
+.ntb-products h3{
+    color: #FD3D57;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 10px;
+
+}
+.ntb-products h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+    color: #000000;
+    width: auto;
+    text-align: center;
+}
+.ntb-products p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+    opacity: 65%;
+    width: 899px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.ntb-products .ntb-product-secondary-title{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.ntb-product-secondary-title p{
+    width: auto;
+    text-align: center;
+}
+.ntb-product-card1 h1{
+    width: auto;
+    margin-left: 10px;
+}
+.ntb-product-card1{
+    width: 464px;
+    height: auto;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    background-color: #fff;
+    box-shadow: 0px 0px 4px 4px #00000014;
+    margin: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    padding-bottom: 20px;
+
+
+}
+.ntb-product-card1 img{
+    margin-top: 20px;
+}
+.ntb-product-card2{
+    width: 464px;
+    height: 695px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    background-color: #fff;
+    box-shadow: 0px 0px 4px 4px #00000014;
+    margin: 20px;
+
+
+}
+.ntb-product-card3{
+    width: 464px;
+    height: 695px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    background-color: #fff;
+    box-shadow: 0px 0px 4px 4px #00000014;
+    margin: 20px;
+
+
+}
+.ntb-products-cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.ntb-product-card1 h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 34.5px;
+    padding-top: 20px;
+    color: #000000;
+
+}
+.ntb-product-card1 p{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    width: auto;
+    color: #000000A6;
+    opacity: 65%;
+    padding: 10px;
+
+}
+.ntb-products-button .ntb-products-btn-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:176px;
+    height:51px;
+    gap: 5px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    box-shadow: 0px 1px 5px 0px #00000029;
+    background: #E6F2FE;
+    border: none;
+    margin-right: 50px;
+
+
+}
+.ntb-products-button .ntb-products-btn-1 a{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 17.58px;
+    color: #000000;
+    opacity: 75%;
+    text-decoration: none;
+
+}
+.ntb-products-button .ntb-products-btn-1 img{
+    opacity: 75%;
+    align-items: center;
+    padding-bottom: 18px;
+
+}
+.ntb-products-button .ntb-products-btn-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:176px;
+    height:51px;
+    gap: 5px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    box-shadow: 0px 1px 5px 0px #00000029;
+    background: #FFCACA;
+    border: none;
+
+
+}
+.ntb-products-button .ntb-products-btn-2 a{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 17.58px;
+    color: #000000;
+    opacity: 75%;
+    text-decoration: none;
+
+}
+.ntb-products-button .ntb-products-btn-2 img{
+    opacity: 75%;
+    align-items: center;
+    padding-bottom: 18px;
+
+}
+.ntb-products-button{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.ntb-product-load-more button{
+    margin-top: 50px;
+    width:196px;
+    height:57px;
+    top: 2508px;
+    left: 622px;
+    padding: 15px 24px 15px 24px;
+    border-radius: 28px ;
+    opacity: 0px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    border: none;
+    background: #FD3D57;
+
+
+}
+.ntb-product-load-more{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-left: 45%;
+}
+@media only screen and (max-width: 700px){
+    .ntb-products-button{
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-left: 10px;
+    }
+    .ntb-products-cards{
+        margin-left: 0;
+    }
+    .ntb-product-load-more{
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+    }
+    
+}

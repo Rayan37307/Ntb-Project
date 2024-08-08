@@ -1,0 +1,33 @@
+.ntb-blog-input input{
+    width: 75vw;
+}
+.ntb-blog-input{
+    margin-left: 8vw;
+    margin-top: 50px;
+}
+
+.ntb-comment1{
+    width: 260px;
+    border: 1px solid lightgrey;
+    align-items: center;
+    height: 330px;
+}
+.ntb-comment1 p{
+    width: 240px;
+    margin-left: 10px;
+    text-align: left;
+}
+.ntb-comment1 .ntb-profile{
+    margin-left: 10px;
+}
+.ntb-comment{
+    margin-left: 10px;
+}
+.ntb-testimoinal{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.ntb-comment1{
+    margin-bottom: 30px;
+}
